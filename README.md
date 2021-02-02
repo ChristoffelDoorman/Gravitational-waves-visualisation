@@ -1,3 +1,5 @@
+May 2019
+
 # Gravitational Wave - visualisation
 
 Interactive visualisation of polarization amplitudes of a black hole binary. The Strain vs. Time is showed for h+ and hx polarisation states. The black hole masses \[Solar masses\], separation \[Mpc\], Inclination, Frequency [Hz] and Phi_0 can be adjusted with sliders.

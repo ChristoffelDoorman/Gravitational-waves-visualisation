@@ -1,4 +1,4 @@
-# GW-visualisation
+# Gravitational Waves - visualisation
 
 Requirements:
 
